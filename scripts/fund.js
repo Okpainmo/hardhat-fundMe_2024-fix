@@ -23,7 +23,7 @@ async function main() {
 	const contractBalance = await ethers.provider.getBalance(fundMeAddress);
 	const funderBalance = await ethers.provider.getBalance(deployer);
 
-	console.log(`Funder Balance: ${funderBalance}`); // local nodes(the localhost) seems to use same address as deployer and contract address.
+	console.log(`Funder Balance: ${funderBalance}`); 
 	console.log(`FundMe Balance: ${contractBalance}`);
 }
 
