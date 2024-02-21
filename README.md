@@ -4,7 +4,7 @@ This project is a very crucial 2024 fix for chapter 7(the Hardhat FundMe chapter
 
 ## Important Notes.
 
-1. Package manager user: NPM.
+1. Package manager used: NPM.
 2. I only fixed the main(Javascript) branch. I'm yet to do so for the Typescript branch.
 
 ## Areas covered.
