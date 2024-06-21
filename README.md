@@ -1,4 +1,4 @@
-# A very crucial 2024 fix for chapter 7(the Hardhat FundMe chapter) of Patrick Collins' and FreeCodeCamp's full-blockchain-solidity-course-js - (Hardhat Javascript Edition)
+# An important 2024 fix for chapter 7(the Hardhat FundMe chapter) of Patrick Collins' and FreeCodeCamp's full-blockchain-solidity-course-js - (Hardhat Javascript Edition)
 
 This project is a very crucial 2024 fix for chapter 7(the Hardhat fundMe chapter) of Patrick Collins' and FreeCodeCamp's full-blockchain-solidity-course-js - Hardhat Javascript Edition. I spent hours verifying, adding notes, fixing bugs, and making changes, so as to make the project work alright, and be compatible with Ethers v6(precisely v6.11.1).
 
